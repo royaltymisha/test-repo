@@ -1,0 +1,11 @@
+{"producer":{"name":"Blender","version":"3.6.1","exporter_version":"3.3.2","file":"shadow_plane.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
+"meshes":[{"name":"Shadow_plane","id":"Shadow_plane","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"isEnabled":true,"pickable":false
+,"positions":[0.3676,-0.1618,-0.7102,-0.3676,-0.2294,0.7102,-0.3676,-0.1618,-0.7102,0.3676,-0.2294,0.7102]
+,"normals":[0,0.999,0.048,0,0.999,0.048,0,0.999,0.048,0,0.999,0.048]
+,"uvs":[0.237,1,0.754,0,0.754,1,0.237,0]
+,"indices":[0,1,2,0,3,1]
+,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":4,"indexStart":0,"indexCount":6}]
+,"instances":[]}
+]
+}
