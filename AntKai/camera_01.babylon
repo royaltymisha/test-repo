@@ -1,0 +1,10 @@
+{"producer":{"name":"Blender","version":"3.6.1","exporter_version":"3.3.2","file":"camera_01.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
+"cameras":[{"name":"Camera","id":"Camera","position":[-1.3363,0.9224,0.7738],"rotation":[0.8043,2.6571,0.7526],"fov":0.6911,"minZ":0.1,"maxZ":1000,"ellipsoid":[0.2,0.9,0.2],"type":"UniversalCamera"
+,"animations":[
+{"name":"rotation animation","property":"rotation","dataType":1,"framePerSecond":30,"loopBehavior":1,"keys":[
+{"frame":1,"values":[0.8043,2.6571,-0.7526]}]},
+{"name":"position animation","property":"position","dataType":1,"framePerSecond":30,"loopBehavior":1,"keys":[
+{"frame":1,"values":[-1.3363,0.9224,0.7738]}]}]
+,"ranges":[{"name":"CameraAction","from":0,"to":1}]}],"activeCameraID":"Camera"
+}
