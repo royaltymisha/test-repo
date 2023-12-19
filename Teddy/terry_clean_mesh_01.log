@@ -1,0 +1,58 @@
+Exporter version: 3.3.2, Blender version: 3.6.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Mikhail\Dropbox\SpaceRunner\daywork\2023.12.19\Teddy\export\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  Beige
+		WARNING: No materials have been assigned: 
+		num positions      :  19610
+		num normals        :  19610
+		num tangents       :  0
+		num uvs            :  39220
+		num uvs2           :  0
+		num colors         :  78440
+		num triangles      :  34874
+	processing begun of mesh:  Body
+		WARNING: No materials have been assigned: 
+		num positions      :  62307
+		num normals        :  62307
+		num tangents       :  0
+		num uvs            :  124614
+		num uvs2           :  0
+		num colors         :  249228
+		num triangles      :  117664
+	processing begun of mesh:  Logo
+		WARNING: No materials have been assigned: 
+		num positions      :  572
+		num normals        :  572
+		num tangents       :  0
+		num uvs            :  1144
+		num uvs2           :  0
+		num colors         :  2288
+		num triangles      :  572
+	processing begun of mesh:  Poсket_patch
+		WARNING: No materials have been assigned: 
+		num positions      :  5731
+		num normals        :  5731
+		num tangents       :  0
+		num uvs            :  11462
+		num uvs2           :  0
+		num colors         :  22924
+		num triangles      :  11136
+========= Writing of JSON file started =========
+	writing mesh:  Beige
+	writing mesh:  Body
+	writing mesh:  Logo
+	writing mesh:  Poсket_patch
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 7.957 secs
